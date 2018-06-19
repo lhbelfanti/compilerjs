@@ -1,0 +1,26 @@
+{
+  "name": "simplejavascriptcompiler",
+  "version": "1.0.0",
+  "description": "Simple compiler made with JavaScript",
+  "main": "src/program.js",
+  "dependencies": {
+    "babel-preset-env": "^1.6.1"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.26.0"
+  },
+  "scripts": {
+    "babel-version": "babel --version",
+    "build": "babel src -d lib"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lhbelfanti/SimpleJavaScriptCompiler.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lhbelfanti/SimpleJavaScriptCompiler/issues"
+  },
+  "homepage": "https://github.com/lhbelfanti/SimpleJavaScriptCompiler#readme"
+}
