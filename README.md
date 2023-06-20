@@ -1,16 +1,14 @@
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="media/compilerjs-dark.png">
-    <source media="(prefers-color-scheme: light)" srcset="media/compilerjs-light.png">
-    <img alt="Compilerjs - Creating a compiler from scratch using JavaScript." src="media/compilerjs-dark.png">
-  </picture>
+<p align="center">
+  <img src="media/compilerjs-logo.png" width="100" alt="Repository logo" />
+</p>
+<h3 align="center">Compilerjs</h3>
+<p align="center">Creating a compiler from scratch using JavaScript<p>
+<p align="center">
+    <img src="https://img.shields.io/github/repo-size/lhbelfanti/compilerjs?label=Repo%20size" alt="Repo size" />
+    <img src="https://img.shields.io/github/license/lhbelfanti/compilerjs?label=License" alt="License" />
+</p>
 
-  <br />
-
-  ![GitHub repo size](https://img.shields.io/github/repo-size/lhbelfanti/compilerjs?style=for-the-badge)
-  ![License](https://img.shields.io/github/license/lhbelfanti/compilerjs?style=for-the-badge)
-</div>
-
+---
 # Compiler phases
 
 ## Evaluator
